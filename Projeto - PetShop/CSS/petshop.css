@@ -145,9 +145,19 @@ footer {
     display: flex;
     align-items: center;
     text-decoration: none;
+    color: #000;
     font-weight: 600;
 }
 
 .container-footer a:hover {
     color: #098de6;
+}
+
+.texto-footer{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    color: #000;
 }
